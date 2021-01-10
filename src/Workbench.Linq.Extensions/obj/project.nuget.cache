@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YX97ERgG63bM57EptjWBpkt4Qu45qvtPodh/qVlhtIgnTJeVCVF/GuwOF4v5X0m8Dy+DZU0Q8MCuIob8CUuoAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Workbench.Linq.Extensions\\Workbench.Linq.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

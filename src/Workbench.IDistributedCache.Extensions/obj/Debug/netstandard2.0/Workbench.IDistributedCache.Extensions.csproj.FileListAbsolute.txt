@@ -1,0 +1,12 @@
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.deps.json
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.dll
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.pdb
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csprojAssemblyReference.cache
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.AssemblyInfoInputs.cache
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.AssemblyInfo.cs
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csproj.CopyComplete
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.dll
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.pdb

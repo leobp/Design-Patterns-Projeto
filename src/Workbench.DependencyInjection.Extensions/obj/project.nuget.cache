@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvvgEG4o0FEe7ni5Ljp2ad+SztI58lyzpbhbGZswfh5o0A6NcJFLc62LZ7lB9ySc4Ip/7747zMndSuqr94tDOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

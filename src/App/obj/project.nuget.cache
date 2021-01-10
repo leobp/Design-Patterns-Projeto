@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gemyjy1G3ffoiYi/gBIQCHC0IAcqtIOSLpeYljpKOH/rZMzsueC12GPAwQ3dZsZlv+XwGtyEBYAO6dShAGhaAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

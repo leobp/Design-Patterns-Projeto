@@ -1,0 +1,12 @@
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.deps.json
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfoInputs.cache
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfo.cs
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CopyComplete
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+C:\Users\sidera\Desktop\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csprojAssemblyReference.cache

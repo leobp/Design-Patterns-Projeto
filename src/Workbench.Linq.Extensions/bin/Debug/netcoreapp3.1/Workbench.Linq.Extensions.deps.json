@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Workbench.Linq.Extensions/1.0.0": {
+        "dependencies": {
+          "Workbench.Comparer": "1.0.0"
+        },
+        "runtime": {
+          "Workbench.Linq.Extensions.dll": {}
+        }
+      },
+      "Workbench.Comparer/1.0.0": {
+        "runtime": {
+          "Workbench.Comparer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Workbench.Linq.Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workbench.Comparer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

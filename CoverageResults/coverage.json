@@ -1,0 +1,491 @@
+{
+  "Workbench.IFormatter.Extensions.dll": {
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Workbench.IFormatter.Extensions\\IFormatterExtensions.cs": {
+      "Workbench.IFormatter.Extensions.IFormatterExtensions": {
+        "System.Runtime.Serialization.IFormatter Workbench.IFormatter.Extensions.IFormatterExtensions::get_DefaultFormatter()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Byte[] Workbench.IFormatter.Extensions.IFormatterExtensions::Serialize(TEntity)": {
+          "Lines": {
+            "12": 1
+          },
+          "Branches": []
+        },
+        "System.Byte[] Workbench.IFormatter.Extensions.IFormatterExtensions::Serialize(TEntity,System.Runtime.Serialization.IFormatter)": {
+          "Lines": {
+            "14": 1,
+            "15": 0,
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "22": 1
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 12,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "TEntity Workbench.IFormatter.Extensions.IFormatterExtensions::Deserialize(System.Byte[])": {
+          "Lines": {
+            "24": 1
+          },
+          "Branches": []
+        },
+        "TEntity Workbench.IFormatter.Extensions.IFormatterExtensions::Deserialize(System.Byte[],System.Runtime.Serialization.IFormatter)": {
+          "Lines": {
+            "26": 1,
+            "27": 0,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "34": 1
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 7,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "DesignPatternSamples.App.dll": {
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\App\\Implementations\\DetranVerificadorPontosServices.cs": {
+      "DesignPatternSamples.App.Implementations.DetranVerificadorPontosServices": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<DesignPatternSamples.App.DTO.PontosPessoa>> DesignPatternSamples.App.Implementations.DetranVerificadorPontosServices::ConsultarPontos(DesignPatternSamples.App.DTO.Pessoa)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void DesignPatternSamples.App.Implementations.DetranVerificadorPontosServices::.ctor(DesignPatternSamples.App.Repository.IDetranVerificadorPontosFactory)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\App\\DTO\\Pessoa.cs": {
+      "DesignPatternSamples.App.DTO.Pessoa": {
+        "System.String DesignPatternSamples.App.DTO.Pessoa::get_CPF()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String DesignPatternSamples.App.DTO.Pessoa::get_UF()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\App\\DTO\\PontosPessoa.cs": {
+      "DesignPatternSamples.App.DTO.PontosPessoa": {
+        "System.Double DesignPatternSamples.App.DTO.PontosPessoa::get_Pontos()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\App\\Decorators\\DetranVerificadorPontosDecoratorCache.cs": {
+      "DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorCache": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<DesignPatternSamples.App.DTO.PontosPessoa>> DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorCache::ConsultarPontos(DesignPatternSamples.App.DTO.Pessoa)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Void DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorCache::.ctor(DesignPatternSamples.App.Services.IDetranVerificadorPontosService,Microsoft.Extensions.Caching.Distributed.IDistributedCache)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\App\\Decorators\\DetranVerificadorPontosDecoratorLogger.cs": {
+      "DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorLogger": {
+        "System.Void DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorLogger::.ctor(DesignPatternSamples.App.Services.IDetranVerificadorPontosService,Microsoft.Extensions.Logging.ILogger`1<DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorLogger>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorLogger/<ConsultarPontos>d__3": {
+        "System.Void DesignPatternSamples.App.Decorators.DetranVerificadorPontosDecoratorLogger/<ConsultarPontos>d__3::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "DesignPatternSamples.Infra.Repository.Detran.dll": {
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Infra.Repository.Detran\\DetranPEVerificadorPontosRepository.cs": {
+      "DesignPatternSamples.Infra.Repository.Detran.DetranPEVerificadorPontosRepository": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<DesignPatternSamples.App.DTO.PontosPessoa>> DesignPatternSamples.Infra.Repository.Detran.DetranPEVerificadorPontosRepository::PadronizarResultado(System.String)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.String> DesignPatternSamples.Infra.Repository.Detran.DetranPEVerificadorPontosRepository::RealizarAcesso(DesignPatternSamples.App.DTO.Pessoa)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void DesignPatternSamples.Infra.Repository.Detran.DetranPEVerificadorPontosRepository::.ctor(Microsoft.Extensions.Logging.ILogger`1<DesignPatternSamples.Infra.Repository.Detran.DetranPEVerificadorPontosRepository>)": {
+          "Lines": {
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Infra.Repository.Detran\\DetranRJVerificadorPontosRepository.cs": {
+      "DesignPatternSamples.Infra.Repository.Detran.DetranRJVerificadorPontosRepository": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<DesignPatternSamples.App.DTO.PontosPessoa>> DesignPatternSamples.Infra.Repository.Detran.DetranRJVerificadorPontosRepository::PadronizarResultado(System.String)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.String> DesignPatternSamples.Infra.Repository.Detran.DetranRJVerificadorPontosRepository::RealizarAcesso(DesignPatternSamples.App.DTO.Pessoa)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void DesignPatternSamples.Infra.Repository.Detran.DetranRJVerificadorPontosRepository::.ctor(Microsoft.Extensions.Logging.ILogger`1<DesignPatternSamples.Infra.Repository.Detran.DetranRJVerificadorPontosRepository>)": {
+          "Lines": {
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Infra.Repository.Detran\\DetranSPVerificadorPontosRepository.cs": {
+      "DesignPatternSamples.Infra.Repository.Detran.DetranSPVerificadorPontosRepository": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<DesignPatternSamples.App.DTO.PontosPessoa>> DesignPatternSamples.Infra.Repository.Detran.DetranSPVerificadorPontosRepository::ConsultarPontos(DesignPatternSamples.App.DTO.Pessoa)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void DesignPatternSamples.Infra.Repository.Detran.DetranSPVerificadorPontosRepository::.ctor(Microsoft.Extensions.Logging.ILogger`1<DesignPatternSamples.Infra.Repository.Detran.DetranSPVerificadorPontosRepository>)": {
+          "Lines": {
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Infra.Repository.Detran\\DetranVerificadorPontosFactory.cs": {
+      "DesignPatternSamples.Infra.Repository.Detran.DetranVerificadorPontosFactory": {
+        "DesignPatternSamples.App.Repository.IDetranVerificadorPontosRepository DesignPatternSamples.Infra.Repository.Detran.DetranVerificadorPontosFactory::Create(System.String)": {
+          "Lines": {
+            "18": 4,
+            "19": 4,
+            "21": 4,
+            "22": 3,
+            "23": 3,
+            "24": 3,
+            "26": 4,
+            "27": 4
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 21,
+              "Offset": 19,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        },
+        "DesignPatternSamples.App.Repository.IDetranVerificadorPontosFactory DesignPatternSamples.Infra.Repository.Detran.DetranVerificadorPontosFactory::Register(System.String,System.Type)": {
+          "Lines": {
+            "30": 3,
+            "31": 3,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 3,
+            "37": 3
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 19,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Void DesignPatternSamples.Infra.Repository.Detran.DetranVerificadorPontosFactory::.ctor(System.IServiceProvider)": {
+          "Lines": {
+            "10": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Infra.Repository.Detran\\DetranVerificadorPontosRepositoryCrawlerBase.cs": {
+      "DesignPatternSamples.Infra.Repository.Detran.DetranVerificadorPontosRepositoryCrawlerBase/<ConsultarPontos>d__0": {
+        "System.Void DesignPatternSamples.Infra.Repository.Detran.DetranVerificadorPontosRepositoryCrawlerBase/<ConsultarPontos>d__0::MoveNext()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Workbench.IDistributedCache.Extensions.dll": {
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Workbench.IDistributedCache.Extensions\\IDistributedCacheExtensions.cs": {
+      "Workbench.IDistributedCache.Extensions.IDistributedCacheExtensions": {
+        "TEntity Workbench.IDistributedCache.Extensions.IDistributedCacheExtensions::GetOrCreate(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String,System.Func`1<TEntity>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "14": 0,
+            "16": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 14,
+              "Offset": 20,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "TEntity Workbench.IDistributedCache.Extensions.IDistributedCacheExtensions::Get(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 23,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Workbench.IDistributedCache.Extensions.IDistributedCacheExtensions::Set(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String,TEntity)": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Workbench.Comparer.dll": {
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Workbench.Comparer\\GenericComparerFactory.cs": {
+      "Workbench.Comparer.GenericComparerFactory`1": {
+        "System.Func`2<TEntity,System.Object> Workbench.Comparer.GenericComparerFactory`1::get_Predicate()": {
+          "Lines": {
+            "9": 48
+          },
+          "Branches": []
+        },
+        "Workbench.Comparer.GenericComparerFactory`1<TEntity> Workbench.Comparer.GenericComparerFactory`1::Create(System.Func`2<TEntity,System.Object>)": {
+          "Lines": {
+            "14": 4,
+            "15": 4,
+            "16": 4
+          },
+          "Branches": []
+        },
+        "System.Boolean Workbench.Comparer.GenericComparerFactory`1::Equals(TEntity,TEntity)": {
+          "Lines": {
+            "19": 8,
+            "20": 8,
+            "21": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 Workbench.Comparer.GenericComparerFactory`1::GetHashCode(TEntity)": {
+          "Lines": {
+            "24": 28,
+            "25": 28,
+            "26": 28
+          },
+          "Branches": []
+        },
+        "System.Void Workbench.Comparer.GenericComparerFactory`1::.ctor()": {
+          "Lines": {
+            "11": 12
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Workbench.Linq.Extensions.dll": {
+    "C:\\Users\\sidera\\Desktop\\DesignPatternSamples-main\\src\\Workbench.Linq.Extensions\\DistinctExtensions.cs": {
+      "Workbench.Linq.Extensions.DistinctExtensions": {
+        "System.Collections.Generic.IEnumerable`1<TEntity> Workbench.Linq.Extensions.DistinctExtensions::Distinct(System.Collections.Generic.IEnumerable`1<TEntity>,System.Func`2<TEntity,System.Object>)": {
+          "Lines": {
+            "11": 2,
+            "12": 2,
+            "13": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sidera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sidera\\.nuget\\packages"
+    ]
+  }
+}
